@@ -6,3 +6,34 @@
 .main-container {
     background-color:#fff;
 }
+
+.question{
+    background-color: #efe9d4;
+    margin-bottom: 3rem;
+}
+
+.answer {
+    border: none;
+    margin-bottom: 3rem;
+}
+
+.badge-answer {
+    background-color: #fff;
+    color: #1cbbb4;
+    border-color: #1cbbb4;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20%;
+    width: 200px;
+    height: 75px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: xx-large;
+    display: inline;
+}
+
+.sentence{
+    border-color: #1cbbb4;
+    border-width: 2px;
+    margin-bottom: 3rem;
+}
